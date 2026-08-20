@@ -1,1 +1,1 @@
-2026-08-20T23:39:54Z 167_bugs_at_scale.sh rc=0 471s
+2026-08-20T23:46:51Z 169_bug_truth.sh rc=0 1s
