@@ -1,1 +1,1 @@
-2026-08-20T23:55:31Z 170_oracle_cases.sh rc=0 444s
+2026-08-20T23:55:34Z 171_bug_truth_clean.sh rc=0 1s
