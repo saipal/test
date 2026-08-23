@@ -1,1 +1,1 @@
-2026-08-23T00:15:09Z 220_stmt_parts2.sh rc=0 75s
+2026-08-23T00:24:57Z 221_reg_from_bugs.sh rc=0 162s
