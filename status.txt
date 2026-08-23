@@ -1,1 +1,1 @@
-2026-08-23T20:26:52Z 239_anchor_life.sh rc=1 1s
+2026-08-23T20:30:14Z 240_anchor_life2.sh rc=0 12s
